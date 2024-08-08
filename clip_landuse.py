@@ -28,7 +28,7 @@
 import arcpy 
 import os 
 import csv
-arcpy.env.workspace = r"C:\Users\s196t023\OneDrive - University of Kansas\Robust Incentives Project" 
+arcpy.env.workspace = r"path to your workspace" 
 arcpy.env.overwriteOutput = True 
 
 
